@@ -15,10 +15,6 @@ A lightweight desktop overlay that displays real-time synchronized lyrics for th
 - 🖼️ Borderless, draggable, always-on-top overlay window
 - 🎨 Custom rounded UI built with Tkinter + Pillow (antialiased shapes)
 
-## Screenshots
-
-<!-- Add a screenshot or GIF of the app here -->
-
 ## How it works
 
 1. Authenticates with the Spotify Web API (OAuth2) via [spotipy](https://github.com/spotipy-dev/spotipy)

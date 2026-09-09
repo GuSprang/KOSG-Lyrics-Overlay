@@ -15,9 +15,6 @@ Um overlay de desktop leve que exibe a letra sincronizada em tempo real da músi
 - 🖼️ Janela sem bordas, arrastável e sempre no topo
 - 🎨 Interface arredondada personalizada, feita com Tkinter + Pillow (formas com antialiasing)
 
-## Screenshots
-
-<!-- Adicione aqui um print ou GIF do app -->
 
 ## Como funciona
 

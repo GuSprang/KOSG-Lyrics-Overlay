@@ -1,0 +1,5 @@
+spotipy
+python-dotenv
+requests
+Pillow
+pyinstaller

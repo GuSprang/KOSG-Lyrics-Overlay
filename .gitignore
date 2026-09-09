@@ -1,0 +1,6 @@
+.env
+.spotify_cache
+__pycache__/
+build/
+dist/
+*.spec
